@@ -1,0 +1,6 @@
+streamlit>=1.26.0
+sqlalchemy
+pandas
+plotly
+numpy
+psycopg2-binary
